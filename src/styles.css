@@ -10,6 +10,7 @@ body{
     border: black 1px solid ;
     padding: 20px;
     width: 700px;
-    height: 300px;
+    min-height: 300px;
     border-radius: 15px;
+    flex-direction: column;
 }

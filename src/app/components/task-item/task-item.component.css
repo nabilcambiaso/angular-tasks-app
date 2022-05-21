@@ -1,0 +1,10 @@
+.task{
+    background: #F4F4F4;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+h3{
+    display: flex;
+    justify-content: space-between;
+}

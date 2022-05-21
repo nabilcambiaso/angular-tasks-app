@@ -11,5 +11,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+onclick(){
+  console.log("clicked")
+}
 }
